@@ -1,7 +1,7 @@
 auth:
   registry.hub.docker.com:
-    username: USERNAME
-    password: PASSWORD
+    username: zdf188
+    password: zdf131777
 images:
   k8s.gcr.io/metrics-server/metrics-server: willdockerhub/metrics-server
   k8s.gcr.io/ingress-nginx/controller: willdockerhub/ingress-nginx-controller
