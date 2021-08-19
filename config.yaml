@@ -6,5 +6,6 @@ images:
   k8s.gcr.io/metrics-server/metrics-server: zdf188/metrics-server
   k8s.gcr.io/ingress-nginx/controller: zdf188/ingress-nginx-controller
   k8s.gcr.io/ingress-nginx/kube-webhook-certgen: zdf188/kube-webhook-certgen
+  k8s.gcr.io/defaultbackend-amd64: zdf188/defaultbackend-amd64
   
 
